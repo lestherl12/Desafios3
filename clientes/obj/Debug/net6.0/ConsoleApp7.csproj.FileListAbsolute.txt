@@ -1,0 +1,30 @@
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\progra I\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\bin\Debug\net6.0\ConsoleApp7.exe
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\bin\Debug\net6.0\ConsoleApp7.deps.json
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\bin\Debug\net6.0\ConsoleApp7.dll
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\bin\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\obj\Debug\net6.0\ConsoleApp7.dll
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\obj\Debug\net6.0\refint\ConsoleApp7.dll
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\obj\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\leste\OneDrive\Desktop\desafios\clientes\obj\Debug\net6.0\ref\ConsoleApp7.dll
